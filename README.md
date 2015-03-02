@@ -1,5 +1,7 @@
 # repo-path-parse
 
+[![build status](https://secure.travis-ci.org/tmcw/repo-path-parse.png)](http://travis-ci.org/tmcw/repo-path-parse)
+
 parse repository path strings to get repository and organization parts
 
 
