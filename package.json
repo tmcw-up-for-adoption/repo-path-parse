@@ -1,6 +1,6 @@
 {
   "name": "repo-path-parse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "parse repository path strings to get repository and organization parts",
   "main": "index.js",
   "scripts": {
