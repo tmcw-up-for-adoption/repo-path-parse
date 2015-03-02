@@ -1,0 +1,25 @@
+{
+  "name": "repo-path-parse",
+  "version": "1.0.0",
+  "description": "parse repository path strings to get repository and organization parts",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js",
+    "doc": "dox -r < index.js | doxme --readme > README.md"
+  },
+  "keywords": [
+    "repo",
+    "git",
+    "github",
+    "repository"
+  ],
+  "author": "Tom MacWright",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  },
+  "dependencies": {
+    "dox": "^0.6.1",
+    "doxme": "^1.8.1"
+  }
+}
