@@ -5,11 +5,10 @@
 parse repository path strings to get repository and organization parts
 
 
-### `repo-path-parse 
+### `repo-path-parse(url)`
+
 Parse git remote URLs into an object with `owner` and `repo`
 keys.
-(url)`
-
 
 
 ### Parameters

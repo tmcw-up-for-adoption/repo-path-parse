@@ -1,9 +1,8 @@
 /**
- * @alias repo-path-parse
- *
  * Parse git remote URLs into an object with `owner` and `repo`
  * keys.
  *
+ * @alias repo-path-parse
  * @param {String} url any git-clonable URL that points to GitHub
  * @returns {Object} an object of `{owner:'owner',repo:'repo'}`
  * @example
